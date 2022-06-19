@@ -125,6 +125,8 @@ class TextureLoader:
     def filereading(self,file):
         for i in file:
             lin = i.split(" ")
+            if(lin==None):
+                return
         if (self.normals != None):
             return self.normals
         if (self.gl_list != None):
