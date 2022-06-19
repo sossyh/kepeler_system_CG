@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kepler_system_Graphics.iml" filepath="$PROJECT_DIR$/.idea/kepler_system_Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Solar.iml" filepath="$PROJECT_DIR$/.idea/Solar.iml" />
     </modules>
   </component>
 </project>
